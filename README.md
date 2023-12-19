@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wenubey&label=Profile%20views&color=0e75b6&style=flat" alt="wenubey" /> </p>
 
-- 🔭 I’m currently working on [Star Wars Wiki](https://github.com/wenubey/StarWarsWiki)
+- 🔭 I’m currently working on [Country App](https://github.com/wenubey/CountryApp)
 
 - 🌱 I’m currently learning **mobile application development using kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wenubey](https://github.com/wenubey)
 
 - 📫 How to reach me **mertfatihsimsek06@gmail.com**
-
-- ⚡ Fun fact **I think I addicted to write code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
