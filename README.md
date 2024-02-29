@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wenubey&label=Profile%20views&color=0e75b6&style=flat" alt="wenubey" /> </p>
 
-- 🔭 I’m currently working on [Rick and Morty Wiki](https://github.com/wenubey/RickAndMortyWiki)
+- 🔭 I’m currently working on [Rick and Morty Wiki](https://github.com/wenubey/Rick-And-Morty-Wiki)
 
 - 🌱 I’m currently learning **mobile application development using kotlin**
 
