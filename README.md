@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wenubey&label=Profile%20views&color=0e75b6&style=flat" alt="wenubey" /> </p>
 
-- 🔭 I’m currently working on [Rick and Morty Wiki](https://github.com/wenubey/Rick-And-Morty-Wiki)
+- 🔭 I’m currently working on [WenuPlayer](https://github.com/wenubey/WenuPlayer-Backend)
 
 - 🌱 I’m currently learning **mobile application development using kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wenubey](https://github.com/wenubey)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/wenubey) and [Google Play Store](https://play.google.com/store/apps/developer?id=wenubey)
 
 - 📫 How to reach me **mertfatihsimsek06@gmail.com**
 
