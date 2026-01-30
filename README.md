@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wenubey&label=Profile%20views&color=0e75b6&style=flat" alt="wenubey" /> </p>
 
-- 🔭 I’m currently working on [WenuPlayer](https://github.com/wenubey/WenuPlayer-Backend)
+- 🔭 I’m currently working on [WenuCommerce](https://github.com/wenubey/WenuCommerce)
 
 - 🌱 I’m currently learning **mobile application development using kotlin**
 
